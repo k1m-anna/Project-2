@@ -1,2 +1,2 @@
-# Project 2
-Project 2 - Ch.1, Mondstadt 
+Story of Mondstadt
+Arduino code for an interactive cardboard enclosure depicting scenes from the first chapter in Genshin Impact
