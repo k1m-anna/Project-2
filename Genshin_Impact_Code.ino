@@ -83,23 +83,23 @@ void loop()
 // Control the third servo
  if(buttonState3 == LOW)
  {
-  cityTownServo.write(0);
+  cityTownServo.write(100);
  }
 
  if(buttonState3 == HIGH)
  {
-  cityTownServo.write(100);
+  cityTownServo.write(0);
  }
 
  //Control the fourth servo
  if(buttonState4 == LOW)
  {
-  cliffMachineServo.write(0);
+  cliffMachineServo.write(100);
  }
 
  if(buttonState4 == HIGH)
  {
-  cliffMachineServo.write(100);
+  cliffMachineServo.write(40);
  }
 
  // Control the fifth servo
