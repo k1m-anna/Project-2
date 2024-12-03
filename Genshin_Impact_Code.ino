@@ -77,7 +77,7 @@ void loop()
 
  if(buttonState2 == HIGH)
  {
-   forestVentiServo.write(80);
+   forestVentiServo.write(120);
  }
 
 // Control the third servo
